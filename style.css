@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    background-image:url('minecraft.webp');
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 150vw;
+    color: rgb(255, 0, 0);
+    text-shadow: 1vw;
+    scrollbar-shadow-color: brown;
+}
+h2{
+    color: rgb(0, 38, 255);
+}
+
+img{
+    border-radius: 100vw;
+    width: 20vw;
+    height: 20vw;
+}
+
+iframe{
+    border-radius: 40px;
+    width:50vw;
+}
+button{
+    border-radius: 50px;
+    color: aliceblue;
+    background-color: blue;
+    font-family: 'system-ui';
+    width:20vw;
+    height: 5vw;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-family: "system-ui";
+    font-size: 2.5vw;
+}
+
+#image{
+    border: 100px;
+    width: 50px;
+    height: 50px;
+}
+nav{
+    background-image: url('mc.png.crdownload');
+    height: 10vw;
+    background-size: 50vw;
+}
