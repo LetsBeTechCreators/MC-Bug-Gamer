@@ -29,7 +29,7 @@ button{
     font-family: 'system-ui';
     width:20vw;
     height: 5vw;
-    font-size:13vw;
+    font-size:13px;
 }
 p{
     color:rgb(0, 0, 0);
